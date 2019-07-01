@@ -1,4 +1,5 @@
 Gjuhë angleze për TI (sem1, 4 kredi).
+
 Mbulon terminologjinë dhe komunikimin bazë nga fusha e TI-së. Studenti do të jetë në
 gjendje të lexojë dhe të kuptojë literaturën dhe materialet nga fusha e TI-së,
 specifikacionet teknike, dokumentacionin e projekteve të TI-së. Do të jetë i aftë të hartojë
