@@ -5,5 +5,5 @@ specifikacionet teknike, dokumentacionin e projekteve të TI-së. Do të jetë i
 draftet e specifikacioneve, dokumentacionin dhe ofertat për produkte dhe shërbime të TIsë dhe t'i komunikojë ato në gjuhën angleze me gojë dhe me shkrim. 
 
 http://www.britishcouncil.al/sites/default/files/english-for-skills-1.pdf
-(http://www.britishcouncil.al/sites/default/files/english-for-skills-2.pdf )
+http://www.britishcouncil.al/sites/default/files/english-for-skills-2.pdf
 
