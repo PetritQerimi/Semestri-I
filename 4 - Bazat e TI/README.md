@@ -4,8 +4,7 @@ Përgaditë për Certifikim në CompTIA A+. Përfshin teknologjitë dhe komponen
 harduerike brenda një kompjuteri, instalimin dhe konfigurimin, teknologjitë e rrjetave në
 nivel fundamental, instalimin dhe konfigurimin e printerëve,
 
-http://certification.comptia.org/docs/default-source/exam-objectives/comptia_a_220-
-801_objectives.pdf
+http://certification.comptia.org/docs/default-source/exam-objectives/comptia_a_220-801_objectives.pdf
 
 CompTIA A+ Study Guide
 
