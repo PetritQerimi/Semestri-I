@@ -6,3 +6,7 @@ nivel fundamental, instalimin dhe konfigurimin e printerëve,
 
 http://certification.comptia.org/docs/default-source/exam-objectives/comptia_a_220-
 801_objectives.pdf
+
+CompTIA A+ Study Guide
+
+http://ccilearning.com/comptia/CCILearning-Aplus-901-g186eng-sample.pdf
