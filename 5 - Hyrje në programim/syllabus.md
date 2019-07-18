@@ -1,6 +1,5 @@
-  VITI	            KODI	                                LËNDA
+  VITI: 1	          KODI: 0102-105      LËNDA:  Hyrje ne Programim
   
-     1				    0102-105		                         Hyrje ne Programim
 
 PËRMBATJA
 
@@ -9,6 +8,7 @@ QËLLIMI
 Kjo është lënda e parë e programimit në shkencen kompjuterike. Lënda përqendrohet në analizën e problemit dhe zhvillimin e algoritmeve dhe programeve kompjuterike ne gjuhë të nivelit të lartë - Java. Studentët do të fitojnë njohuri në konceptin e programimit kompjuterik, duke shfrytëzuar gjuhën programuese Java si mjet kryesor të zhvillimit.
 Studentët do të fitojnë njohuri në konceptin e programimit kompjuterik, duke shfrytëzuar gjuhën programuese Java si mjet kryesor të zhvillimit.
 KOHËZGJATJA E MODULIT
+
 1 semestër; 15 javë; 4 orë në javë. Totali: 60 orë kontakti dhe 60 orë e punë/mësim i pavarur
 REZULTATET E PRITURA 
 •	Përdorimin e gjuhëve programuese Java, për të zgjidhur problemin 
@@ -18,6 +18,7 @@ REZULTATET E PRITURA
 •	Pregaditja për lëndë të avancuara, si Programimi i Orientuar në Objekte dhe Algoritmet dhe Struktura e të dhënave.
 
 METODAT MËSIMORE
+
 Ligjërata, ushtrime,  detyra praktike, teste, ushtrime laboratorike, studim, hulumtim dhe punë e pavarur
 VLERËSIMI
 Detyrat (x3): Detyra të shtëpisë që studenti duhet të punoj i pavarur dhe të jetë në gjendje të zgjeroj kodin në laborator.	30%
@@ -27,8 +28,11 @@ TOTAL	100%
 
 
 PJESA TEORIKE DHE PRAKTIKE E MESIMDHENIES
+
 Programi do të organizohet në formë të kombinimit të ligjëratave dhe ushtrimeve. Pjesëmarrja në të gjitha aktivitetet në klasë është e obliguar për të qenë në hap të duhur me zhvillimin e mësimit.  Studenti nuk duhet që të vijë i parapërgatitur në lidhje me ligjëratën apo ushtrimin që do të zhvillohet në klasë apo laborator.
+
 MJETET E KONKRETIZIMIT
+
 Mjetet kryesore të konkretizimit të përdorura gjatë kursit do jenë prezentimi i ligjeratave përmes MS Powerpoint, dhe implementimi i kodit aty për aty duke përdorur kompjuterët ne laborator. Nëpërmjet bashkëbisedimit gjat ligjëratave dhe ushtrimeve do të bëhet i mundur thellimi i njohiurive për tema të caktuar nga kursi.
 
 LITERATURA
