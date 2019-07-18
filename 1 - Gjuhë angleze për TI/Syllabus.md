@@ -32,8 +32,8 @@ EVALUATION
         Assignment 1 		    10%
         Assignment 2 		    10%
         Assignment 3 		    10%
-        Test 1 			        15%
-        Test 2  		        15%
+        Test 1 			       15%
+        Test 2  		       15%
         Final test 			    30%
 
 
