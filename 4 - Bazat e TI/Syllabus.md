@@ -41,13 +41,13 @@ Moduli ka shtrirje kohore pre 15 javësh dhe organizohet dy deri ne tre herë n�
 
 Kontributi nё ngarkesёn e studentit
 
-      Aktiviteti 	                     Orë	   Ditë/javë	Gjithsej
-      Ligjërata	                     2	         15 javë	      30 orë
-      Ushtrime teorike/laboratorike	   2	         15 javë	      30 orë
-      Quize	                           30 min	   15 javë	      7.5 orë
-      Detyrat	                     30 min	   15 javë	      7.5 orë
-      Provimi Final	               2	         3 javë	      6 orë
-      Total orë			         81 orë
+      Aktiviteti                          Orë         Ditë/javë         Gjithsej
+      Ligjërata                           2           15 javë           30 orë
+      Ushtrime teorike/laboratorike       2           15 javë           30 orë
+      Quize                               30 min      15 javë           7.5 orë
+      Detyrat                             30 min      15 javë           7.5 orë
+      Provimi Final                       2           3 javë            6 orë
+      Total orë                                                         81 orë
 
 Konsultimet me mësimdhënësin	
       Sipas nevojës dhe gjatë takimeve në klasë.
