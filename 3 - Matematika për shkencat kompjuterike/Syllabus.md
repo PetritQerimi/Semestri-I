@@ -45,6 +45,9 @@ MJETET E KONKRETIZIMIT
 Disa pjesë të ores së mësimit do të punohet në khanacademy, ku studentët kanë rast të zhvillojnë më shumë kreativitetin gjatë zgjidhjes së problemeve matematikore.
 
 LITERATURA
+
 [1] W.D. Wallis, A Beginner’s Guide to Discrete Mathematics, Second Edition, Birkhäuser, 2012 
+
 [2] K. Rosen, Discrete Mathematics and Its Applications,  Fourth Edition, WCB/McGraw-Hill, 1999
+
 [3] J. L. Hein, Discrete Structures, Logic, and Computability, Second Edition, Jones and Barlett Publications, 2002
