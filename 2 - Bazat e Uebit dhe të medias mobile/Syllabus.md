@@ -1,5 +1,7 @@
 VITI: 1	
+
 KODI:  0102-102
+
 LËNDA:  Bazat e uebit dhe të medias mobile
   			  		           
 PËRMBATJA
