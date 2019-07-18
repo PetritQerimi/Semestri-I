@@ -30,7 +30,7 @@ Ligjërata, ushtrime, punimi i projekteve në grupe,  detyra praktike, teste, us
 
 VLERËSIMI
 
-    Detyrat (x2):                       10% (Detyra të shtëpisë që studenti duhet të punoj i pavarur	)
+    Detyrat (x2):                       10% (Detyra të shtëpisë që studenti duhet të punoj i pavarur)
     Vijueshmëria:                       10% (Studenti duhet të jenë prezent gjatë ushtrimeve dhe ligjeratave)
     Testet (x2):                        30% (Testet do të jenë paper based)
     Projekti semestral dhe Prezentimi:  50%
