@@ -18,11 +18,11 @@ The course will be held during a semester and will have a total of 40 hours of t
 
 EXPECTED RESULTS
 
-•	Understand the main ideas of the complex text, including technical discussions in the field of ICT.
-•	Interact with a degree of fluency that makes regular interaction possible with native speakers.
-•	Produce clear, detailed text on a wide range of subjects and explain a view point on topical issues.
-•	Use English language vocabulary and phraseology related to the specific professional field of interest in Information and Communication Technology in the oral and written form.
-•	Write in English issues linked with business correspondence, prepare their own CV, apply for a job vacancy, write a letter of complaint, and develop simple reports in Standard English. 
+    •	Understand the main ideas of the complex text, including technical discussions in the field of ICT.
+    •	Interact with a degree of fluency that makes regular interaction possible with native speakers.
+    •	Produce clear, detailed text on a wide range of subjects and explain a view point on topical issues.
+    •	Use English language vocabulary and phraseology related to the specific professional field of interest in Information and Communication Technology in the oral and written form.
+    •	Write in English issues linked with business correspondence, prepare their own CV, apply for a job vacancy, write a letter of complaint, and develop simple reports in Standard English. 
 
 TEACHING METHODOLOGY
 
@@ -30,13 +30,13 @@ Exercises, assignments, presentations, projects, group work, discussions, debate
 
 EVALUATION
 
-  Attendance 			  10%
-  Assignment 1 			10%
-  Assignment 2 			10%
-  Assignment 3 			10%
-  Test 1 				    15%
-  Test 2  				  15%
-  Final test 			  30%
+      Attendance 			  10%
+      Assignment 1 			10%
+      Assignment 2 			10%
+      Assignment 3 			10%
+      Test 1 				    15%
+      Test 2  				  15%
+      Final test 			  30%
 
 
 Assignment policy:
