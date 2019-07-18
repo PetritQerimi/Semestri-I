@@ -1,5 +1,7 @@
-YEAR: 1		
-CODE: 0102-101	
+YEAR: 1
+
+CODE: 0102-101
+
 SUBJECT: English language for IT
 
 CONTENT
@@ -27,15 +29,24 @@ TEACHING METHODOLOGY
 Exercises, assignments, presentations, projects, group work, discussions, debates, simulations, role play, etc.
 
 EVALUATION
+
 Attendance 			  10%
+
 Assignment 1 			10%
+
 Assignment 2 			10%
+
 Assignment 3 			10%
+
 Test 1 				    15%
+
 Test 2  				  15%
+
 Final test 			  30%
 
+
 Assignment policy:
+
 Late submission of the assignments will result in the following penalties as:
 •	One day of delay – 10% downgrading
 •	Two days of delay – 20% downgrading 
