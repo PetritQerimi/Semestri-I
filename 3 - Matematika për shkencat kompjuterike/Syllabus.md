@@ -1,5 +1,7 @@
-VITI	KODI	LËNDA
-     1				    0102-103			Matematika për shkencat kompjuterike
+VITI:     1	
+KODI:	0102-103	
+LËNDA:    Matematika për shkencat kompjuterike
+					
 
 PËRMBATJA
 
@@ -43,6 +45,7 @@ PJESA TEORIKE DHE PRAKTIKE E MESIMDHENIES
 Gjatë ushtrimeve studentët do të zgjidhin problem të ndryshme dhe shembuj me zbatim në praktikë.
 
 MJETET E KONKRETIZIMIT
+
 Disa pjesë të ores së mësimit do të punohet në khanacademy, ku studentët kanë rast të zhvillojnë më shumë kreativitetin gjatë zgjidhjes së problemeve matematikore.
 
 LITERATURA
