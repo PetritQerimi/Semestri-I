@@ -1,16 +1,23 @@
-  VITI: 1	          KODI: 0102-105      LËNDA:  Hyrje ne Programim
+  VITI: 1	          
+  KODI: 0102-105      
+  LËNDA:  Hyrje ne Programim
   
 
 PËRMBATJA
 
 Hyrje në gjuhët programuese të nivelit të lartë; Kompajlimi dhe ekzekutimi i kodit në Java; Ndryshoret (variablat) dhe konstantet; Tipet e të dhënave; Shënimi i rezultatit (output) në konsolë; Leximi nga konsola; Operatorët dhe Prioritetet; Konvertimi i të dhënave; Barazia dhe operatorët logjikë; Deklaratat e kushtëzuara (if-else, switch); Deklaratat përsëritëse (for, while); Stringjet (strings); Vargjet (arrays); Matricat (Multidimensional arrays)
+
 QËLLIMI
+
 Kjo është lënda e parë e programimit në shkencen kompjuterike. Lënda përqendrohet në analizën e problemit dhe zhvillimin e algoritmeve dhe programeve kompjuterike ne gjuhë të nivelit të lartë - Java. Studentët do të fitojnë njohuri në konceptin e programimit kompjuterik, duke shfrytëzuar gjuhën programuese Java si mjet kryesor të zhvillimit.
 Studentët do të fitojnë njohuri në konceptin e programimit kompjuterik, duke shfrytëzuar gjuhën programuese Java si mjet kryesor të zhvillimit.
+
 KOHËZGJATJA E MODULIT
 
 1 semestër; 15 javë; 4 orë në javë. Totali: 60 orë kontakti dhe 60 orë e punë/mësim i pavarur
+
 REZULTATET E PRITURA 
+
 •	Përdorimin e gjuhëve programuese Java, për të zgjidhur problemin 
 •	Mësimin dhe praktikimin e komponenteve themelore të procesit të programimit
 •	Leximin dhe “debug”imin e  programit në Java
@@ -25,7 +32,6 @@ Detyrat (x3): Detyra të shtëpisë që studenti duhet të punoj i pavarur dhe t
 Vijueshmëria: Studenti duhet të jenë prezent gjatë ushtrimeve dhe ligjeratave.	10%
 Testet (x3): Testet do të jenë paper based. 	60%
 TOTAL	100%
-
 
 PJESA TEORIKE DHE PRAKTIKE E MESIMDHENIES
 
