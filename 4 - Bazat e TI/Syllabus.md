@@ -18,13 +18,18 @@ PC Hardware and Software curriculum provides an introduction to the computer har
 PC Hardware and Software is a hands-on, career-oriented e-learning solution with an emphasis on practical experience to help students develop fundamental computer skills, along with essential career skills. The Cisco® IT Essentials curriculum helps students prepare for entry-level ICT career opportunities and the CompTIA A+ certification, which helps students differentiate themselves in the marketplace to advance their careers.
 
 PC Hardware and Software provides a comprehensive introduction to the ICT industry and interactive, hands-on exposure to personal computers, hardware, software, and operating systems. The curriculum offers the following features and benefits:
-    • Students develop working knowledge of how computers operate, how to assemble computers, and how to troubleshoot hardware and software issues 
-    • Hands-on labs and virtual learning tools help students develop critical thinking and complex 
-    problem-solving skills
-    • The subject emphasizes the practical application of skills and procedures needed for hardware and software installations, upgrades, and troubleshooting systems
-    • Expanded mobile device hardware and software configuration and diagnostic and common security threats and vulnerabilities like malware, phishing, spoofing and social engineering.
-    • Cisco Packet Tracer simulation-based learning activities promote the exploration of networking and network security concepts and allow students to experiment with network behavior
-    • Interactive assessments provide immediate feedback to support the evaluation of knowledge and acquired skills 
+
+      • Students develop working knowledge of how computers operate, how to assemble computers, and how to troubleshoot hardware and software issues
+
+      • Hands-on labs and virtual learning tools help students develop critical thinking and complex problem-solving skills
+
+      • The subject emphasizes the practical application of skills and procedures needed for hardware and software installations, upgrades, and troubleshooting systems
+
+      • Expanded mobile device hardware and software configuration and diagnostic and common security threats and vulnerabilities like malware, phishing, spoofing and social engineering.
+
+      • Cisco Packet Tracer simulation-based learning activities promote the exploration of networking and network security concepts and allow students to experiment with network behavior
+
+      • Interactive assessments provide immediate feedback to support the evaluation of knowledge and acquired skills 
 
 Innovative formative and summative assessments are integrated into the curriculum and supported by an advanced online delivery system. Immediate, rich feedback supports instructor and student evaluation of acquired knowledge and skills. Assessments can be as simple as a multiple-choice question or as complex as troubleshooting a simulated network.
 This subject covers the fundamentals of PC hardware and software as well as advanced concepts. It is designed for students who want to pursue careers in ICT and students who want to gain practical knowledge of how a computer works.
@@ -38,14 +43,22 @@ Ky modul ka për qëllim të shërbej si hyrje në arkitekturën, strukturën, f
 KOHËZGJATJA E MODULIT
 
 Moduli ka shtrirje kohore pre 15 javësh dhe organizohet dy deri ne tre herë në javë me nga dy orë mësimore. Ne total moduli ka 80 ore ligjëratë dhe kontakt te drejtpërdrejtë me kandidatin.
+
 Kontributi nё ngarkesёn e studentit
-   Aktiviteti 	                  Orë	   Ditë/javë	Gjithsej
-   Ligjërata	                  2	      15 javë	   30 orë
-   Ushtrime teorike/laboratorike	2	      15 javë	   30 orë
-   Quize	                        30 min	15 javë	   7.5 orë
-   Detyrat	                     30 min	15 javë	   7.5 orë
-   Provimi Final	               2	      3 javë	   6 orë
-   Total orë			            81 orë
+
+      Aktiviteti 	                  Orë	   Ditë/javë	Gjithsej
+
+      Ligjërata	                  2	      15 javë	   30 orë
+
+      Ushtrime teorike/laboratorike	2	      15 javë	   30 orë
+
+      Quize	                        30 min	15 javë	   7.5 orë
+
+      Detyrat	                     30 min	15 javë	   7.5 orë
+
+      Provimi Final	               2	      3 javë	   6 orë
+
+      Total orë			            81 orë
 
 Konsultimet me mësimdhënësin	Sipas nevojës dhe gjatë takimeve në klasë.
 Përforcim i njohurive dhe shkathtësive në vendin e punës	4	15 javë	60 orë
@@ -53,18 +66,19 @@ Përforcim i njohurive dhe shkathtësive në vendin e punës	4	15 javë	60 orë
 REZULTATET E PRITURA
 
 Upon completion of the subject, students will be able to perform the following tasks:
-  • Select the appropriate computer components to build, repair, or upgrade personal computers. 
-  • Explain how to correctly use tools and safely work in a lab. 
-  • Install components to build, repair, or upgrade personal computers. 
-  • Explain how to perform preventive maintenance and troubleshooting on personal computers. 
-  • Install Windows operation systems. 
-  • Perform management and maintenance of Windows operating systems. 
-  • Configure computers to communicate on a network. 
-  • Configure devices to connect to the Internet and Cloud services. 
-  • Explain how to use, configure, and manage laptops and mobile devices. 
-  • Explain how to configure, secure and troubleshoot mobile, OS X, and Linux operating systems. 
-  • Install and share a printer to meet requirements 
-  • Implement basic host, data, and network security. 
+
+     • Select the appropriate computer components to build, repair, or upgrade personal computers. 
+     • Explain how to correctly use tools and safely work in a lab. 
+     • Install components to build, repair, or upgrade personal computers. 
+     • Explain how to perform preventive maintenance and troubleshooting on personal computers. 
+     • Install Windows operation systems. 
+     • Perform management and maintenance of Windows operating systems. 
+     • Configure computers to communicate on a network. 
+     • Configure devices to connect to the Internet and Cloud services. 
+     • Explain how to use, configure, and manage laptops and mobile devices. 
+     • Explain how to configure, secure and troubleshoot mobile, OS X, and Linux operating systems. 
+     • Install and share a printer to meet requirements 
+     • Implement basic host, data, and network security. 
 
 METODAT MËSIMORE
 
@@ -73,6 +87,7 @@ Pjesëmarrja në të gjitha aktivitetet në klasë është e obliguar për të q
 Ligjërata, ushtrime dhe demonstrime, pune praktike, pune laboratorike, instalime dhe konfigurime, virtualizim, teste teorike dhe praktike, aktivitete, detyra, dhe seminare me prezantime.
 
 VLERËSIMI
+
       Pjesëmarrja dhe aktiviteti në klasë							10%
       Rezultatet e testeve të kapitujve nga NetAcad			40%
       Provimi final me shkrim									      25%
@@ -80,12 +95,12 @@ VLERËSIMI
 
 Llogaritja e notës në numër bëhet si më poshtë:
 
-  91 - 100%  - A ose10
-  81 - 90%    - B ose 9
-  71 - 80%    - C ose 8
-  61 – 70%   - D ose 7
-  51 – 60%   - E ose 6
-  0 – 50%   - F ose 5, nuk është notë kaluese.
+     91 - 100%  - A ose10
+     81 - 90%    - B ose 9
+     71 - 80%    - C ose 8
+     61 – 70%   - D ose 7
+     51 – 60%   - E ose 6
+     0 – 50%   - F ose 5, nuk është notë kaluese.
   
 PJESA TEORIKE DHE PRAKTIKE E MESIMDHENIES
 
@@ -94,20 +109,22 @@ Pjesa teorike përbëhet nga ligjërata dhe diskutime e cila konkretizohet duke 
 MJETET E KONKRETIZIMIT
 
 Harduer:
-  1.	Kompjuter për secilin student në klasë
-  2.	Paisje te rrjetit dhe vegla te ndryshme per pune praktike
-  3.	Projektori në klasë
-  4.	Altoparlanta
+
+     1.	Kompjuter për secilin student në klasë
+     2.	Paisje te rrjetit dhe vegla te ndryshme per pune praktike
+     3.	Projektori në klasë
+     4.	Altoparlanta
 
 Softuer:
 
-  1.	Word, Excel, PowerPoint, OneNote, Outlook ose Emaill llogari/Email Account te studentit, PDF.
-  2.	Sisteme te ndryshme Operative
-  a.	Windows 7, 8, 10
-  b.	Microsoft Windows Server 2012 dhe Microsoft Windows Server 2016
-  c.	Hyper-V dhe VMware per virtualizim
-  d.	Linux OS
-  e.	Android dhe IOS
+     1.	Word, Excel, PowerPoint, OneNote, Outlook ose Emaill llogari/Email Account te studentit, PDF.
+     2.	Sisteme te ndryshme Operative
+     a.	Windows 7, 8, 10
+     b.	Microsoft Windows Server 2012 dhe Microsoft Windows Server 2016
+     c.	Hyper-V dhe VMware per virtualizim
+     d.	Linux OS
+     e.	Android dhe IOS
+  
 Aplikacione te sigurisë, Software Firewall dhe aplikacione e solucione Anti-Virus.
 
 LITERATURA												
