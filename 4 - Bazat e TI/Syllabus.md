@@ -78,10 +78,10 @@ Ligjërata, ushtrime dhe demonstrime, pune praktike, pune laboratorike, instalim
 
 VLERËSIMI
 
-      Pjesëmarrja dhe aktiviteti në klasë					10%
-      Rezultatet e testeve të kapitujve nga NetAcad			40%
-      Provimi final me shkrim							25%
-      Provimi final i shkathtësive						25%
+      Pjesëmarrja dhe aktiviteti në klasë                         10%
+      Rezultatet e testeve të kapitujve nga NetAcad               40%
+      Provimi final me shkrim                                     25%
+      Provimi final i shkathtësive                                25%
 
 Llogaritja e notës në numër bëhet si më poshtë:
 
