@@ -42,6 +42,7 @@ MJETET E KONKRETIZIMIT
 Mjetet kryesore të konkretizimit të përdorura gjatë kursit do jenë prezentimi i ligjeratave përmes MS Powerpoint, dhe implementimi i kodit aty për aty duke përdorur kompjuterët ne laborator. Nëpërmjet bashkëbisedimit gjat ligjëratave dhe ushtrimeve do të bëhet i mundur thellimi i njohiurive për tema të caktuar nga kursi.
 
 LITERATURA
+
 1.	Herbert Schildt; Java: A Beginner's Guide, Seventh Edition
 2.	Cay S. Horstmann; Core Java Volume I--Fundamentals, 1 (11th Edition) 
 3.	Rogers Cadenhead; Java in 24 Hours, Sams Teach Yourself (Covering Java 8) (7th Edition)
