@@ -1,7 +1,9 @@
   VITI	            KODI	                                LËNDA
+  
      1				    0102-105		                         Hyrje ne Programim
 
 PËRMBATJA
+
 Hyrje në gjuhët programuese të nivelit të lartë; Kompajlimi dhe ekzekutimi i kodit në Java; Ndryshoret (variablat) dhe konstantet; Tipet e të dhënave; Shënimi i rezultatit (output) në konsolë; Leximi nga konsola; Operatorët dhe Prioritetet; Konvertimi i të dhënave; Barazia dhe operatorët logjikë; Deklaratat e kushtëzuara (if-else, switch); Deklaratat përsëritëse (for, while); Stringjet (strings); Vargjet (arrays); Matricat (Multidimensional arrays)
 QËLLIMI
 Kjo është lënda e parë e programimit në shkencen kompjuterike. Lënda përqendrohet në analizën e problemit dhe zhvillimin e algoritmeve dhe programeve kompjuterike ne gjuhë të nivelit të lartë - Java. Studentët do të fitojnë njohuri në konceptin e programimit kompjuterik, duke shfrytëzuar gjuhën programuese Java si mjet kryesor të zhvillimit.
