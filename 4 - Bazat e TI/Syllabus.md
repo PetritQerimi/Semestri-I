@@ -1,7 +1,7 @@
 
-YEAR:  1		
-CODE: 0102-104	 
-SUBJECT: Bazat e TIK (Bazat e Teknologjisë së Informacionit dhe Komunikimit)
+      YEAR:  1		
+      CODE: 0102-104	 
+      SUBJECT: Bazat e TIK (Bazat e Teknologjisë së Informacionit dhe Komunikimit)
    
 CONTENT
 
@@ -20,15 +20,10 @@ PC Hardware and Software is a hands-on, career-oriented e-learning solution with
 PC Hardware and Software provides a comprehensive introduction to the ICT industry and interactive, hands-on exposure to personal computers, hardware, software, and operating systems. The curriculum offers the following features and benefits:
 
       • Students develop working knowledge of how computers operate, how to assemble computers, and how to troubleshoot hardware and software issues
-
       • Hands-on labs and virtual learning tools help students develop critical thinking and complex problem-solving skills
-
       • The subject emphasizes the practical application of skills and procedures needed for hardware and software installations, upgrades, and troubleshooting systems
-
       • Expanded mobile device hardware and software configuration and diagnostic and common security threats and vulnerabilities like malware, phishing, spoofing and social engineering.
-
       • Cisco Packet Tracer simulation-based learning activities promote the exploration of networking and network security concepts and allow students to experiment with network behavior
-
       • Interactive assessments provide immediate feedback to support the evaluation of knowledge and acquired skills 
 
 Innovative formative and summative assessments are integrated into the curriculum and supported by an advanced online delivery system. Immediate, rich feedback supports instructor and student evaluation of acquired knowledge and skills. Assessments can be as simple as a multiple-choice question or as complex as troubleshooting a simulated network.
@@ -46,19 +41,13 @@ Moduli ka shtrirje kohore pre 15 javësh dhe organizohet dy deri ne tre herë n�
 
 Kontributi nё ngarkesёn e studentit
 
-      Aktiviteti 	                  Orë	   Ditë/javë	Gjithsej
-
-      Ligjërata	                  2	      15 javë	   30 orë
-
-      Ushtrime teorike/laboratorike	2	      15 javë	   30 orë
-
-      Quize	                        30 min	15 javë	   7.5 orë
-
-      Detyrat	                     30 min	15 javë	   7.5 orë
-
-      Provimi Final	               2	      3 javë	   6 orë
-
-      Total orë			            81 orë
+      Aktiviteti 	                     Orë	      Ditë/javë	   Gjithsej
+      Ligjërata	                     2	         15 javë	      30 orë
+      Ushtrime teorike/laboratorike	   2	         15 javë	      30 orë
+      Quize	                           30 min	   15 javë	      7.5 orë
+      Detyrat	                        30 min	   15 javë	      7.5 orë
+      Provimi Final	                  2	         3 javë	      6 orë
+      Total orë			               81 orë
 
 Konsultimet me mësimdhënësin	Sipas nevojës dhe gjatë takimeve në klasë.
 Përforcim i njohurive dhe shkathtësive në vendin e punës	4	15 javë	60 orë
@@ -95,12 +84,12 @@ VLERËSIMI
 
 Llogaritja e notës në numër bëhet si më poshtë:
 
-     91 - 100%  - A ose10
-     81 - 90%    - B ose 9
-     71 - 80%    - C ose 8
-     61 – 70%   - D ose 7
-     51 – 60%   - E ose 6
-     0 – 50%   - F ose 5, nuk është notë kaluese.
+     91 - 100%    - A ose10
+     81 - 90%     - B ose 9
+     71 - 80%     - C ose 8
+     61 – 70%     - D ose 7
+     51 – 60%     - E ose 6
+     0 – 50%      - F ose 5, nuk është notë kaluese.
   
 PJESA TEORIKE DHE PRAKTIKE E MESIMDHENIES
 
