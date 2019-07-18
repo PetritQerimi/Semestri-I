@@ -1,6 +1,6 @@
-VITI:     1	
-KODI:	0102-103	
-LËNDA:    Matematika për shkencat kompjuterike
+	VITI:     1	
+	KODI:	0102-103	
+	LËNDA:    Matematika për shkencat kompjuterike
 					
 
 PËRMBATJA
