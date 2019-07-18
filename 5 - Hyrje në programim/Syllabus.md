@@ -1,7 +1,7 @@
-  VITI: 1	          
-  KODI: 0102-105      
-  LËNDA:  Hyrje ne Programim
-  
+    VITI: 1	          
+    KODI: 0102-105      
+    LËNDA:  Hyrje ne Programim
+
 
 PËRMBATJA
 
@@ -18,20 +18,22 @@ KOHËZGJATJA E MODULIT
 
 REZULTATET E PRITURA 
 
-•	Përdorimin e gjuhëve programuese Java, për të zgjidhur problemin 
-•	Mësimin dhe praktikimin e komponenteve themelore të procesit të programimit
-•	Leximin dhe “debug”imin e  programit në Java
-•	Kuptimin e sintaksës së gjuhës programuese Java
-•	Pregaditja për lëndë të avancuara, si Programimi i Orientuar në Objekte dhe Algoritmet dhe Struktura e të dhënave.
+    •	Përdorimin e gjuhëve programuese Java, për të zgjidhur problemin 
+    •	Mësimin dhe praktikimin e komponenteve themelore të procesit të programimit
+    •	Leximin dhe “debug”imin e  programit në Java
+    •	Kuptimin e sintaksës së gjuhës programuese Java
+    •	Pregaditja për lëndë të avancuara, si Programimi i Orientuar në Objekte dhe Algoritmet dhe Struktura e të dhënave.
 
 METODAT MËSIMORE
 
 Ligjërata, ushtrime,  detyra praktike, teste, ushtrime laboratorike, studim, hulumtim dhe punë e pavarur
+
 VLERËSIMI
-Detyrat (x3): Detyra të shtëpisë që studenti duhet të punoj i pavarur dhe të jetë në gjendje të zgjeroj kodin në laborator.	30%
-Vijueshmëria: Studenti duhet të jenë prezent gjatë ushtrimeve dhe ligjeratave.	10%
-Testet (x3): Testet do të jenë paper based. 	60%
-TOTAL	100%
+
+    Detyrat (x3):   30% (Detyra të shtëpisë që studenti duhet të punoj i pavarur dhe të jetë në gjendje të zgjeroj kodin në laborator)
+    Vijueshmëria:   10% (Studenti duhet të jenë prezent gjatë ushtrimeve dhe ligjeratave)
+    Testet (x3):    60% (Testet do të jenë paper based)
+    TOTAL:	        100%
 
 PJESA TEORIKE DHE PRAKTIKE E MESIMDHENIES
 
@@ -43,11 +45,11 @@ Mjetet kryesore të konkretizimit të përdorura gjatë kursit do jenë prezenti
 
 LITERATURA
 
-1.	Herbert Schildt; Java: A Beginner's Guide, Seventh Edition
-2.	Cay S. Horstmann; Core Java Volume I--Fundamentals, 1 (11th Edition) 
-3.	Rogers Cadenhead; Java in 24 Hours, Sams Teach Yourself (Covering Java 8) (7th Edition)
-4.	Herbert Schildt; Java: The Complete Reference, Tenth Edition
-5.	Paul J. Deitel,  Harvey Deitel;;  Java How to Program, Early Objects (11th Edition).
-6.	https://docs.oracle.com/en/java/javase/11/docs/api/index.html#JavaSE
+    1.	Herbert Schildt; Java: A Beginner's Guide, Seventh Edition
+    2.	Cay S. Horstmann; Core Java Volume I--Fundamentals, 1 (11th Edition) 
+    3.	Rogers Cadenhead; Java in 24 Hours, Sams Teach Yourself (Covering Java 8) (7th Edition)
+    4.	Herbert Schildt; Java: The Complete Reference, Tenth Edition
+    5.	Paul J. Deitel,  Harvey Deitel;;  Java How to Program, Early Objects (11th Edition).
+    6.	https://docs.oracle.com/en/java/javase/11/docs/api/index.html#JavaSE
 
 
