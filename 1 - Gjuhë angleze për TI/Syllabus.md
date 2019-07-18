@@ -48,8 +48,11 @@ Final test 			  30%
 Assignment policy:
 
 Late submission of the assignments will result in the following penalties as:
+
 •	One day of delay – 10% downgrading
+
 •	Two days of delay – 20% downgrading 
+
 •	Three days plus delay – the assignment will not be accepted
 
 
