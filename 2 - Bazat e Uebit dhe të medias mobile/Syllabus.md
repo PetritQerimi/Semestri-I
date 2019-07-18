@@ -25,9 +25,11 @@ REZULTATET E PRITURA
     •	Fitimin e njohurive të mjaftueshme për të zhvilluar web faqe dinamike përmes Javascript
 
 METODAT MËSIMORE
+
 Ligjërata, ushtrime, punimi i projekteve në grupe,  detyra praktike, teste, ushtrime laboratorike, studim, hulumtim dhe punë e pavarur
 
 VLERËSIMI
+
 Detyrat (x2): Detyra të shtëpisë që studenti duhet të punoj i pavarur	10%
 Vijueshmëria: Studenti duhet të jenë prezent gjatë ushtrimeve dhe ligjeratave.	10%
 Testet (x2): Testet do të jenë paper based.	30%
